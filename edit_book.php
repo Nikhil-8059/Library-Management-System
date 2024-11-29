@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 include 'db.php';
 
@@ -130,4 +130,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <a href="index.php">Back to Book Catalog</a>
 </body>
 </html>
->>>>>>> bc5312da7aeb609ebc998dd60c9f4b8fc5d4d598
+
