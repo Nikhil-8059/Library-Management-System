@@ -2,4 +2,4 @@
 Library Management System Using PHP and MySQL
 
 To Run this project :
-##1.Download XAMPP
+#1.Download XAMPP
