@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 include 'db.php';
 
@@ -28,4 +28,4 @@ if (isset($_GET['id'])) {
 }
 header("Location: index.php");
 ?>
->>>>>>> bc5312da7aeb609ebc998dd60c9f4b8fc5d4d598
+
