@@ -10,4 +10,9 @@ Library Management System Using PHP and MySQL
 	C:\xampp\htdocs\Library Management System
   In this folder add all the files then  
 	  &rarr; open XAMPP control pannel 
+
+   
 ![image](https://github.com/user-attachments/assets/3871f120-2b5a-4c48-bc88-3074f4c8ef7a)
+
+	&rarr; Start Apache and MySQL
+ 
