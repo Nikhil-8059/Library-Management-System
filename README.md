@@ -19,4 +19,3 @@ Library Management System Using PHP and MySQL
 &rarr;&rarr;&rarr; Import the sql file 
 &rarr;&rarr; Now In any browser's url bar or address bar enter:
 
-> localhost/filename.php 
